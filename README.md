@@ -3,7 +3,6 @@
 Welcome to my C++ practice repository!
 
 This repository contains my C++ programs and mini-projects created while learning programming as a **B.Sc. (Hons.) Computer Science** student at **Delhi University**.
-# Cpp-Practice
 
 ## Programs
 - Simple Calculator
