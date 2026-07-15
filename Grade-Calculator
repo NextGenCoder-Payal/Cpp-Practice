@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int marks;
+
+    cout << "Enter marks of the student: ";
+    cin >> marks;
+
+    if (marks < 0 || marks > 100) {
+        cout << "Invalid marks! Please enter marks between 0 and 100.";
+    }
+    else if (marks >= 90) {
+        cout << "Grade of the student: A";
+    }
+    else if (marks >= 80) {
+        cout << "Grade of the student: B";
+    }
+    else if (marks >= 70) {
+        cout << "Grade of the student: C";
+    }
+    else if (marks >= 60) {
+        cout << "Grade of the student: D";
+    }
+    else {
+        cout << "Grade of the student: E";
+    }
+
+    return 0;
+}
