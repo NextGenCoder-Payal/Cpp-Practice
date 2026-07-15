@@ -7,6 +7,7 @@ This repository contains my C++ programs and mini-projects created while learnin
 ## Programs
 - Simple Calculator
 - Reverse Number
+- Grade Calculator 
   
 ## Language
 - C++
